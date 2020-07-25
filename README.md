@@ -7,4 +7,4 @@ A combination of tranditional db like oracle mysql etc and mem db like redis etc
 
 本项目重点关注大数据量的快速存取与安全。
 
-当本项目发布之日，开发人员只需要像传统数据库一样访问数据库，将不再关系缓存系统的存在。
+当本项目发布之日，开发人员只需要像传统数据库一样访问数据库，将不再关心缓存系统的存在。
